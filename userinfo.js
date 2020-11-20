@@ -1,4 +1,4 @@
-//donwload do fundo: http://www.mediafire.com/view/7rl1a1hgryvsmgm/fundo.png/file
+//background download: http://www.mediafire.com/view/7rl1a1hgryvsmgm/fundo.png/file
 const Discord = require('discord.js')
 const Canvas = require('canvas')
 const moment = require('moment')
